@@ -5,8 +5,6 @@
  */
 package math.linear;
 
-import java.awt.Graphics;
-
 /**
  *
  * @author Ganesh
