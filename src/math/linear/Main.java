@@ -56,6 +56,8 @@ public class Main extends JPanel implements MouseListener {
     public static double rotSpeed = .05;
 
     public static void main(String[] args) {
+        //R3MatRender r2mr = new R3MatRender();
+        //r2mr.run();
         Main m = new Main();
         m.run();
     }
